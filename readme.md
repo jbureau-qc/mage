@@ -1,3 +1,8 @@
+
+Format Requests
+
+https://github.com/magefree/mage/issues/6766
+
 # XMage — Magic, Another Game Engine
 
 [![Build Status](https://travis-ci.org/magefree/mage.svg?branch=master)](https://travis-ci.org/magefree/mage) [![latest release](https://img.shields.io/github/v/release/magefree/mage)](https://github.com/magefree/mage/releases/) [![commints since latest release](https://img.shields.io/github/commits-since/magefree/mage/latest)](https://github.com/magefree/mage/commits/) [![Join the chat at https://gitter.im/magefree/mage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/magefree/mage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
